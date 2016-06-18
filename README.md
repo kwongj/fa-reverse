@@ -14,7 +14,7 @@ Jason Kwong (@kwongjc)
 ```
 $ fa-reverse.py -h
 usage: 
-  fa-reverse.py [OPTIONS] FASTA
+  fa-reverse.py [OPTIONS] FASTA > reverse.fa
 
 Reverse complement a FASTA file
 
