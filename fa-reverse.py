@@ -13,7 +13,7 @@ from Bio.SeqRecord import SeqRecord
 parser = argparse.ArgumentParser(
 	formatter_class=RawTextHelpFormatter,
 	description='Reverse complement a FASTA file\n',
-	usage='\n  %(prog)s [OPTIONS] FASTA')
+	usage='\n  %(prog)s [OPTIONS] FASTA > reverse.fa')
 parser.add_argument('fasta', metavar='FASTA', help='input FASTA file', nargs='+')
 parser.add_argument('--version', action='version', version=
 		'=====================================\n'
