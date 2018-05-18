@@ -1,15 +1,15 @@
 # fa-reverse
 Reverse complement FASTA sequence
 
-##Author
+## Author
 
 Jason Kwong (@kwongjc)
 
-##Dependencies
-* Python 2.7.x
+## Dependencies
+* Python 3.x
 * BioPython
 
-##Usage
+## Usage
 
 ```
 $ fa-reverse.py -h
@@ -26,10 +26,10 @@ optional arguments:
   --version   show program's version number and exit
 ```
 
-##Bugs
+## Bugs
 
 Please submit via the [GitHub issues page](https://github.com/kwongj/fa-reverse/issues).  
 
-##Software Licence
+## Software Licence
 
 [GPLv3](https://github.com/kwongj/fa-reverse/blob/master/LICENSE)
